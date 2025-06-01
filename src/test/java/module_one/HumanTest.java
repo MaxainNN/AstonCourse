@@ -39,7 +39,7 @@ public class HumanTest {
 
     @Test
     @Order(3)
-    @DisplayName("Create human with default constructor and set fields value")
+    @DisplayName("Create human with default constructor and set fields values")
     void testSettersAndGetters() {
         Human human = new Human();
         human.setName("Bob");
