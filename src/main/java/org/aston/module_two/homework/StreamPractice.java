@@ -45,15 +45,15 @@ public class StreamPractice {
                 );
 
         /**
-         * peek() - выводим каждого студента (используется переопределенный toString)
-         * flatMap() - преобразуем поток студентов в поток их книг
-         * sorted() - сортируем книги по количеству страниц
-         * distinct() - оставляем только уникальные книги (нужны equals/hashCode)
-         * filter() - оставляем книги, выпущенные после 2000 года
-         * limit() - ограничиваем поток 3 элементами
-         * map() - преобразуем книги в их годы выпуска
-         * findFirst() - метод короткого замыкания, возвращает Optional
-         * ifPresentOrElse() - обрабатываем Optional (выводим год или сообщение об отсутствии)
+         * peek() - print each student (uses overridden toString)
+         * flatMap() - convert the stream of students to a stream of their books
+         * sorted() - sort the books by the number of pages
+         * distinct() - keep only unique books (need equals/hashCode)
+         * filter() - keep books published after 2000
+         * limit() - limit the stream to 3 elements
+         * map() - convert books to their years of publication
+         * findFirst() - short-circuit method, returns Optional
+         * ifPresentOrElse() - process Optional (print year or absence message)
          */
     }
 }
