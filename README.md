@@ -1,6 +1,6 @@
 ## Курс `Java developer` в компании `Aston`
 
-<img src="images/aston_logo.png" width="400" height="100">
+<img src="images/aston_logo.png" width="300" height="100">
 
 ## Описание
 
@@ -33,3 +33,4 @@ mvn surefire-report:report-only # Generate surefire report
 
 - [Первое задание](descriptions/task_1.md)
 - [Второе задание](descriptions/task_2.md)
+- [Третье задание](descriptions/task_3.md)
