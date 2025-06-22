@@ -34,3 +34,5 @@ mvn surefire-report:report-only # Generate surefire report
 - [Первое задание](descriptions/task_1.md)
 - [Второе задание](descriptions/task_2.md)
 - [Третье задание](descriptions/task_3.md)
+- [Четвертое задание](descriptions/task_4.md)
+- [Пятое задание](descriptions/task_5.md)
